@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: white;
+    font-family:'Times New Roman', Times, serif ;
+    background-color: #f03126;
+  }
+  h3{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+}
+  p {
+    color: red;   
+  }
+  
+  a{background-color: red;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  img{
+    border: 2mm solid red;
+  }
+  .tabla1,tr, th, td{
+    border: solid red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+  }
+  .Tablas2 th{
+    background: rgb(219, 124, 124);
+    text-align: center;
+    
+  }
+
+table .plan{
+    background: rgb(219, 124, 124);
+}
+
+table .Medellin{
+  background: rgb(219, 124, 124);
+  
+}
+table .Buenos{
+  background: rgb(219, 124, 124);
+  
+}
+
+.Listas{
+  width: 150px;
+  border: solid red;
+  
+  
+
+}
+.Tablas{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px;
+}
+.tabla1{
+
+  
+  
+  
+  height: 70px;
+  
+
+}
+.Tablas2{
+
+  
+  
+  height: 70px;
+} 
